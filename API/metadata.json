@@ -1,0 +1,18 @@
+[
+  {
+    "id": "book1",
+    "title": "Goldfinger",
+    "author": "Ian Fleming",
+    "description": "A James Bond novel.",
+    "filename": "book1.epub",
+    "cover_url": "https://example.com/covers/goldfinger.jpg"
+  },
+  {
+    "id": "book2",
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "Dystopian novel.",
+    "filename": "book2.epub",
+    "cover_url": "https://example.com/covers/1984.jpg"
+  }
+]
